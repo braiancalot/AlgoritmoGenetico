@@ -1,11 +1,10 @@
 # Algoritmo Genético
 
-</br><h3> Grupo: Braian dos Santos Calot, Eric Anholete Bichara, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.</h3></br>
+Grupo: Braian dos Santos Calot, Eric Anholete Bichara, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.
 
-## Explicação
-<h3> 
-    Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função.
-</h3></br>
+## Explicação 
+Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função.
+   
 
 ## Video explicação: <br>
 <h3>
