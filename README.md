@@ -1,6 +1,6 @@
 # Algoritmo Genético
 
-</br><h3> Grupo: Braian dos Santos Calot, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.</h3></br>
+</br><h3> Grupo: Braian dos Santos Calot, Eric Anholete Bichara, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.</h3></br>
 
 ## Explicação
 <h3> 
