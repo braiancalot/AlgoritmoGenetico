@@ -8,6 +8,8 @@
 </h3></br>
 
 ## Video explicação: <br>
-
+<h3>
+    
 [![AlgoritmoGenetico](https://img.youtube.com/vi/XgQZTyLZ52w/0.jpg)](https://www.youtube.com/watch?v=XgQZTyLZ52w)
 
+</h3>
