@@ -1,2 +1,13 @@
-# AlgoritmoGenetico
-Trabalho desenvolvido para a disciplina de Inteligência Artificial do 8º Período (2021/2) do curso de Ciência da Computação - FAESA
+# Algoritmo Genético
+
+</br><h3> Grupo: Braian dos Santos Calot, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.</h3></br>
+
+## Explicação
+<h3> 
+    Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função.
+</h3></br>
+
+## Video explicação: <br>
+
+[![AlgoritmoGenetico](https://img.youtube.com/vi/XgQZTyLZ52w/0.jpg)](https://www.youtube.com/watch?v=XgQZTyLZ52w)
+
