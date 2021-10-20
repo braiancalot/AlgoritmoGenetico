@@ -7,7 +7,7 @@ Esse programa foi feito na linguagem Python com o intuito de encontar valores de
    
 
 ## Video explicação: <br>
-<h3>
+<h3 align="center">
     
 [![AlgoritmoGenetico](https://img.youtube.com/vi/XgQZTyLZ52w/0.jpg)](https://www.youtube.com/watch?v=XgQZTyLZ52w)
 
