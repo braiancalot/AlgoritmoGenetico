@@ -3,7 +3,7 @@
 Grupo: Braian dos Santos Calot, Eric Anholete Bichara, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.
 
 ## Explicação 
-Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função.
+Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função utilizando o Algoritmo Genético.
    
 
 ## Video explicação: <br>
