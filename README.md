@@ -1,6 +1,6 @@
 # Algoritmo Genético
 
-Grupo: Braian dos Santos Calot, Eric Anholete Bichara, João Victor Simões Gonçalves e Igor Fracalossi do Nascimento Lozorio.
+Grupo: Braian dos Santos Calot, Eric Anholete Bichara, Huan Carlos Dias Barros, Igor Fracalossi do Nascimento Lozorio, João Victor Simões Gonçalves e Larissa Rosa dos Santos.
 
 ## Explicação 
 Esse programa foi feito na linguagem Python com o intuito de encontar valores de A, B e C que minimizem o Erro médio Quadrático de uma determinada função utilizando o Algoritmo Genético.
